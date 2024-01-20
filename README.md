@@ -20,3 +20,12 @@ This project employs SVM, Naive Bayes, and Random Forest classifiers for disease
 1. Clone the repository: [https://github.com/bhavyavij6/Disease-Detection.git](https://github.com/bhavyavij6/Disease-Detection.git)
 2. Install dependencies: pip install -r [requirements.txt](https://github.com/bhavyavij6/Disease-Detection/blob/main/requirements.txt)
 3. Explore the code and run the Jupyter Notebooks or Python scripts.
+
+
+
+## Contribution
+Contributions are welcome! Please follow the [Contributing Guidelines](https://github.com/bhavyavij6/Disease-Detection/blob/main/Contribution.txt).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/bhavyavij6/Disease-Detection/blob/main/License.txt) file for details.
+
