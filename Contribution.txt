@@ -1,0 +1,23 @@
+# Contributing to Disease Detection ML
+
+Thank you for considering contributing to this project! Your contributions help make it better.
+
+## How to Contribute
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them with descriptive messages.
+- Push your changes to your fork.
+- Submit a pull request to the `main` branch.
+
+## Code Style
+- Follow PEP 8 style guide for Python code.
+
+## Reporting Issues
+- Use clear and concise language.
+- Include steps to reproduce the issue.
+- Add relevant screenshots if applicable.
+
+## Contact
+If you have questions or need further assistance, feel free to contact on bhavyavij06@gmail.com .
+
+Happy coding!
